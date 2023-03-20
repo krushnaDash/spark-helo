@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/k0d03gd/project/code/krushna/spark-hello/target/scala-2.13/spark-hello_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetEx$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/k0d03gd/project/code/krushna/spark-hello/target/scala-2.13/classes/DataSetEx$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/k0d03gd/project/code/krushna/spark-hello/target/scala-2.13/classes/DataSetEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/k0d03gd/project/code/krushna/spark-hello/target/scala-2.13/classes/DataSetEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataSetEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/k0d03gd/project/code/krushna/spark-hello/target/scala-2.13/classes/DataSetEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
